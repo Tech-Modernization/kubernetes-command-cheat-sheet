@@ -1,7 +1,7 @@
 
 # Kubernetes Kubectl Cheat Sheet
 
-![PDF version](resources/kubernetes_cheatsheet.pdf)
+[PDF version](https://github.com/contino/kubernetes-command-cheat-sheet/raw/master/resources/kubernetes_cheatsheet.pdf)
 
 ![](resources/kubernetes_cheatsheet_front.png)
 
