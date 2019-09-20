@@ -11,7 +11,7 @@
 
 [Contino Blog](https://www.contino.io/insights/topic/kubernetes)
 
-[kubernetes.io kubectl cheat cheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+[kubernetes.io kubectl cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
 [Contino learning on Katacode](https://katacoda.com/contino/courses/kubernetes)
 
